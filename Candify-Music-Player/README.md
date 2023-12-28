@@ -1,6 +1,6 @@
 # A Mini Music Player - HTML, CSS and Javascript.
 
-<img width="1448" alt="Screenshot 2023-08-14 at 5 34 24 PM" src="https://ibb.co/Kq5R1Mp">
+<img width="1448" alt="Screenshot 2023-08-14 at 5 34 24 PM" src="https://imgtr.ee/image/ISmccL">
 
 In this example, we'll create a simple music player interface using HTML, CSS, and Vue.js for the interactions. Here's how you can do it:
 
